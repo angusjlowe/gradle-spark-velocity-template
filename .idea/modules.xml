@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-spark-velocity-template.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-spark-velocity-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-spark-velocity-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-spark-velocity-template_main.iml" group="gradle-spark-velocity-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-spark-velocity-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-spark-velocity-template_test.iml" group="gradle-spark-velocity-template" />
+    </modules>
+  </component>
+</project>
